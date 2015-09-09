@@ -6,7 +6,7 @@ import java.io.IOException;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
-
+// auto sync
 public class SQLConnection {
 	
 	private static String driver=null;
